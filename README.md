@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suhail Behlim</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 
-- 🔭 I’m currently working on **Full Stack Web Developer**
+- 🔭 I’m currently working as **Full Stack Web Developer**
 
 - 🌱 I’m currently learning **Full Stack Web Developement**
 
