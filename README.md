@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Developement**
 
-- 👨‍💻 All of my projects are available at [https://suhailbehlim.netlify.app](https://suhailbehlim.netlify.app)
+- 👨‍💻 Some of my projects are available at [https://suhailbehlim.netlify.app](https://suhailbehlim.netlify.app)
 
 - 💬 Ask me about **Web Development**
 
