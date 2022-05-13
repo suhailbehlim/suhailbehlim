@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **Full Stack Web Developer**
 
-- 🌱 I’m currently learning **Full Stack Web Developement**
+- 🌱 I’m currently learning more about **Full Stack Web Developement**
 
 - 👨‍💻 Some of my projects are available at [https://suhailbehlim.netlify.app](https://suhailbehlim.netlify.app)
 
