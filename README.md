@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Suhail Behlim</h1>
-<h3 align="center">A passionate Full Stack Web developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently working as **Full Stack Web Developer**
+- 🔭 I’m currently working as **Software Developer**
 
-- 🌱 I’m currently learning more about **Full Stack Web Developement**
+- 🌱 I’m currently learning more about ** Web /App Developement**
 
 - 👨‍💻 Some of my projects are available at [https://suhailbehlim.netlify.app](https://suhailbehlim.netlify.app)
 
