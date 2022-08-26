@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **Software Developer**
 
-- 🌱 I’m currently learning more about ** Web /App Developement**
+- 🌱 I’m currently learning more about **Software Development**
 
 - 👨‍💻 Some of my projects are available at [https://suhailbehlim.netlify.app](https://suhailbehlim.netlify.app)
 
