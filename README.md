@@ -5,7 +5,7 @@
 
 - 🌱 learning more about **Software Development**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **behlimsuhail@gmail.com**
 
